@@ -1,9 +1,12 @@
-﻿Console.WriteLine("Write 4 numbers: ");
-int a, b, c, d;
+﻿int a, b, c, d;
 double x, y, z, r;
+Console.WriteLine("Write number a: ");
 int.TryParse(Console.ReadLine(), out a);
+Console.WriteLine("Write number b: ");
 int.TryParse(Console.ReadLine(), out b);
+Console.WriteLine("Write number c: ");
 int.TryParse(Console.ReadLine(), out c);
+Console.WriteLine("Write number d: ");
 int.TryParse(Console.ReadLine(), out d);
 
 x = (a + 2 * b - c + d) / (c * d) + (a + b) / (c - d) - (a * a) / (b * b);
