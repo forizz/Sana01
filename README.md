@@ -1,2 +1,2 @@
-Виконав: **Данилкович Дмитро Сергійович**\
-Email: **ansonshuter@gmail.com**, або **ipz233_dds@student.ztu.edu.ua**
+Р’РёРєРѕРЅР°РІ: **Р”Р°РЅРёР»РєРѕРІРёС‡ Р”РјРёС‚СЂРѕ РЎРµСЂРіС–Р№РѕРІРёС‡**\
+Email: **ansonshuter@gmail.com**, Р°Р±Рѕ **ipz233_dds@student.ztu.edu.ua**
