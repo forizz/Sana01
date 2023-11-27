@@ -1,8 +1,10 @@
 **/bin/**
 **/obj/**
+**/.vs/**
 
 *.idea
-
+*.bin
+*.sln
 # Prerequisites
 *.d
 
